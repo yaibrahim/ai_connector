@@ -112,7 +112,7 @@ gem install ./ai_connector-0.1.0.gem
 ## 🤝 Contributing
 
 Bug reports and pull requests are welcome on GitHub at:  
-[https://github.com/your-username/ai_connector](https://github.com/your-username/ai_connector)
+[https://github.com/your-username/ai_connector](https://github.com/yaibrahim/ai_connector)
 
 ---
 
